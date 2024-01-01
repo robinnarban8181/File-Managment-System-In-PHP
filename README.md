@@ -1,4 +1,4 @@
-Crafted using PHP and MySQL, this web-based file management solution adeptly organizes, stores, and manipulates files. Offering a user-friendly interface, it efficiently handles documents, images, videos, and more.
+![image](https://github.com/robinnarban8181/File-Managment-System-In-PHP/assets/140138741/520cbe74-396d-40a6-bf02-5e15ace03a18)Crafted using PHP and MySQL, this web-based file management solution adeptly organizes, stores, and manipulates files. Offering a user-friendly interface, it efficiently handles documents, images, videos, and more.
 
 **Its functionalities include:**
 
@@ -19,3 +19,9 @@ Crafted using PHP and MySQL, this web-based file management solution adeptly org
 2. **Folder PIN Encryption:** Users set folder privacy (private/public) through PIN encryption for enhanced security.
 
 Developing this system involves PHP scripting for server-side operations, encompassing file management, authentication, and MySQL database integration. Emphasizing security measures like validation, encryption, and error handling is vital for system resilience and user data protection. Expertise in web development, security protocols, and database management is pivotal for crafting a reliable and secure application for streamlined file handling.
+
+**Watch YouTube Video for more Detailed**
+
+https://youtu.be/M9IMZoNM6jY
+
+**Share your support by like, comment and subcribe on YouTube Video**
